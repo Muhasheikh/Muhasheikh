@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-
+<h1 align="center"> &#128540;, Welcome To My GitHub Profile</h1>
 <h1 align="center">Hi 👋, I'm Muhassan Faizal</h1>
 <h3 align="center">Currently an Undergraduate in IT</h3>
 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **REACT | AngularJS | Laravel PHP**
 
-- 📫 How to reach me **muhasheikh8@gmail.com**
+- 📫 Reach me **muhasheikh8@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
