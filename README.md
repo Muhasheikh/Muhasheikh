@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<h1 align="center"> &#128540;, Welcome To My GitHub Profile</h1>
+<h1 align="center"> &#128540; Welcome To My GitHub Profile</h1>
 <h1 align="center">Hi 👋, I'm Muhassan Faizal</h1>
 <h3 align="center">Currently an Undergraduate in IT</h3>
 
