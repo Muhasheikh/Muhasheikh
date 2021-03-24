@@ -18,7 +18,7 @@
 <a href="https://twitter.com/muhassan14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="muhassan14" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhassan faizal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="muhassan faizal" height="30" width="40" /></a>
 <a href="https://fb.com/muhassan faizal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="muhassan faizal" height="30" width="40" /></a>
-<a href="https://instagram.com/muhassan_99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="muhassan_99" height="30" width="40" /></a>
+<a href="https://instagram.com/muhassan_99" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdigiday.com%2Fmedia%2Finstagram-new-logo%2F&psig=AOvVaw2p8gT-9gWiMHxunQHYpoxW&ust=1616678001485000&source=images&cd=vfe&ved=2ahUKEwjziZ2BgcnvAhXa_zgGHYQoA3MQjRx6BAgAEAc" alt="muhassan_99" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
