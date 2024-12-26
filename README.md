@@ -2,8 +2,8 @@
 <h1 align="">Hi 👋, I'm Muhassan Faizal</h1>
 <h4 align=""> Software Engineer with 3+ years of experience</h3>
 <p>🔹 Mastering Java & React to build scalable and dynamic applications <br/>
-🔹 Passionate about crafting clean, efficient code and solving complex problems <br/
-🔹 Enthusiastic learner, exploring emerging technologies and trends<br/
+🔹 Passionate about crafting clean, efficient code and solving complex problems <br/>
+🔹 Enthusiastic learner, exploring emerging technologies and trends<br/>
 🌱 Always open to collaboration on exciting projects</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhasheikh&label=Profile%20views&color=0e75b6&style=flat" alt="muhasheikh" /> </p>
