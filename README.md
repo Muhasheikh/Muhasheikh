@@ -1,7 +1,10 @@
 <!DOCTYPE html>
-<h1 align=""> &#128540; Welcome To My GitHub Profile</h1>
 <h1 align="">Hi 👋, I'm Muhassan Faizal</h1>
-<h3 align=""> Software Engineer with 3+ years of experience</h3>
+<h4 align=""> Software Engineer with 3+ years of experience</h3>
+<p>🔹 Mastering Java & React to build scalable and dynamic applications \n
+🔹 Passionate about crafting clean, efficient code and solving complex problems \n
+🔹 Enthusiastic learner, exploring emerging technologies and trends \n
+🌱 Always open to collaboration on exciting projects</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhasheikh&label=Profile%20views&color=0e75b6&style=flat" alt="muhasheikh" /> </p>
 
