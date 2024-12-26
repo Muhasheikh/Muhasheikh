@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <h1 align="">Hi 👋, I'm Muhassan Faizal</h1>
 <h4 align=""> Software Engineer with 3+ years of experience</h3>
-<p>🔹 Mastering Java & React to build scalable and dynamic applications \n
-🔹 Passionate about crafting clean, efficient code and solving complex problems \n
-🔹 Enthusiastic learner, exploring emerging technologies and trends \n
+<p>🔹 Mastering Java & React to build scalable and dynamic applications <br/>
+🔹 Passionate about crafting clean, efficient code and solving complex problems <br/
+🔹 Enthusiastic learner, exploring emerging technologies and trends<br/
 🌱 Always open to collaboration on exciting projects</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhasheikh&label=Profile%20views&color=0e75b6&style=flat" alt="muhasheikh" /> </p>
@@ -11,8 +11,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhasheikh" alt="muhasheikh" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/muhassan14" target="blank"><img src="https://img.shields.io/twitter/follow/muhassan14?logo=twitter&style=for-the-badge" alt="muhassan14" /></a> </p>
-
-- 🌱 I’m currently learning **REACT | AngularJS | Laravel PHP**
 
 - 📫 Reach me **muhasheikh8@gmail.com**
 
