@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<h1 align="center"> &#128540; Welcome To My GitHub Profile</h1>
-<h1 align="center">Hi 👋, I'm Muhassan Faizal</h1>
-<h3 align="center">Currently an Undergraduate in IT</h3>
+<h1 align=""> &#128540; Welcome To My GitHub Profile</h1>
+<h1 align="">Hi 👋, I'm Muhassan Faizal</h1>
+<h3 align=""> Software Engineer with 3+ years of experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhasheikh&label=Profile%20views&color=0e75b6&style=flat" alt="muhasheikh" /> </p>
 
